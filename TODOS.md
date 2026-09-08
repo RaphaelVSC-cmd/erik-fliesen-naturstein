@@ -37,12 +37,12 @@
 - [x] Audit-Report in `docs/audit-report.md` speichern
 
 ## Phase 6: GitHub Deployment
-- [ ] Neues Repository `erik-fliesen-naturstein` via `github-mcp-server` erstellen
-- [ ] Lokalen Git-Commit und Push durchführen
+- [x] Neues Repository `erik-fliesen-naturstein` via `github-mcp-server` erstellen
+- [x] Lokalen Git-Commit und Push durchführen (https://github.com/RaphaelVSC-cmd/erik-fliesen-naturstein)
 
 ## Phase 7: Dokumentation & Übergabe
 - [x] `docs/ANLEITUNG.md` und `README.md` erstellen
 
 ## Phase 8: Notion CRM Sync & Saxer-Vertriebsskript
-- [ ] Lead in der Notion-Datenbank „Sparrings-Camp (Übungs-Leads)“ anlegen
-- [ ] Saxer-Telefonskript & 60-Sekunden Loom-Video Skript einpflegen
+- [x] Lead in der Notion-Datenbank „Sparrings-Camp (Übungs-Leads)“ anlegen
+- [x] Saxer-Telefonskript & 60-Sekunden Loom-Video Skript einpflegen (https://app.notion.com/p/3d59a9a15ad681f1898ef32e2905859b)
