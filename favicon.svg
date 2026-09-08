@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="stoneGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#242830"/>
+      <stop offset="100%" stop-color="#15181C"/>
+    </linearGradient>
+    <linearGradient id="bronzeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D98A48"/>
+      <stop offset="100%" stop-color="#A35B29"/>
+    </linearGradient>
+    <linearGradient id="tileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F5"/>
+      <stop offset="100%" stop-color="#E8E2D8"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Base Stone Slab -->
+  <rect width="64" height="64" rx="14" fill="url(#stoneGrad)"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+  
+  <!-- Precision Grid / 4 Tiles with Laser Grout & Stylized E -->
+  <!-- Top Left Tile: Travertine Cream -->
+  <rect x="10" y="10" width="19" height="19" rx="3" fill="url(#tileGrad)"/>
+  
+  <!-- Top Right Tile: Handcrafted Bronze -->
+  <rect x="33" y="10" width="21" height="19" rx="3" fill="url(#bronzeGrad)"/>
+  
+  <!-- Bottom Left Tile: Handcrafted Bronze Slab with Jolly bevel -->
+  <rect x="10" y="33" width="19" height="21" rx="3" fill="url(#bronzeGrad)"/>
+  
+  <!-- Bottom Right Tile: Travertine Cream -->
+  <rect x="33" y="33" width="21" height="21" rx="3" fill="url(#tileGrad)"/>
+  
+  <!-- Precision Joint Crosshair Laser Accent -->
+  <circle cx="31" cy="31" r="2.5" fill="#FAF8F5"/>
+  <circle cx="31" cy="31" r="1" fill="#B86B35"/>
+</svg>
